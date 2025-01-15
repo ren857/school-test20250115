@@ -33,7 +33,7 @@
 
 [文件解說](doc/index.html)
 
-![富士山圖](Fujisan/SG010_6)</a>
+![富士山圖](Fujisan/SG010_6.png)</a>
 
 <ul type="disk">
 <li>台北捷運板南線</li>
